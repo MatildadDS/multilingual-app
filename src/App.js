@@ -1,14 +1,15 @@
 import React from "react";
 import Contenu from './Components/Contenu/Contenu'
-import Togglelangs from "./Components/ToggleLangs/ToggleLangs";
+import Togglelangs from "./Components/ToggleLangs/ToggleLangs"
+import ContextProvider from './context/langContext'
 
 
 function App() {
   return (
-    <>
-    <Togglelangs />
-    <Contenu />
-    </>
+    <ContextProvider>
+      <Togglelangs />
+      <Contenu />
+    </ContextProvider>
   );
 }
 

@@ -13,4 +13,5 @@ const traductions = {
   },
 };
 
+
 export default traductions;
