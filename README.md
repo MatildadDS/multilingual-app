@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Run this project here 👉🏽 https://matildadds.github.io/react-multilingual-app/
 
-This project https://matildadds.github.io/react-multilingual-app/ was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
